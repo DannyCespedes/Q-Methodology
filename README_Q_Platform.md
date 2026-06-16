@@ -105,7 +105,3 @@ Ve a **📋 Informes**.
 - **Declaraciones distintivas**: |z| ≥ 1.96 Y diferencia con otros factores ≥ 1.0.
 - **Consenso**: Ítems con Δz < 0.8 entre todos los factores.
 
-
-**Acceso a repositorio en github**
-Username: DannyCespedes
-password: VSCodeDaniel
